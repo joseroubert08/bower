@@ -60,7 +60,7 @@
     "shell-quote": "^1.4.2",
     "stringify-object": "^1.0.0",
     "tar-fs": "^1.4.1",
-    "tmp": "0.0.28",
+    "tmp": "0.2.4",
     "update-notifier": "^0.6.0",
     "user-home": "^1.1.0",
     "which": "^1.0.8"
